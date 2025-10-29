@@ -14,6 +14,7 @@
 - [ ] Databases
   - [ ] SQL flavors
   - [ ] Database Design Intro
+    - [ ] ERDs
   - [ ] Design a database
   - [ ] Write a bit of SQL
   - [ ] ORMs
